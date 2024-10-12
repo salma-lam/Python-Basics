@@ -82,3 +82,11 @@ Pour exceller dans le domaine de l'intelligence artificielle (IA) et du machine 
 
 ---
 
+## Installation des Bibliothèques Requises
+Pour installer toutes les bibliothèques nécessaires, exécutez la commande suivante :
+
+```bash
+
+# Installation des bibliothèques
+pip install numpy pandas matplotlib seaborn scipy sympy scikit-learn tensorflow torch torchvision torchaudio opencv-python Flask fastapi uvicorn gradio numba
+
